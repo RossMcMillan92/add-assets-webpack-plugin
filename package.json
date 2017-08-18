@@ -1,0 +1,27 @@
+{
+  "name": "add-assets-webpack-plugin",
+  "version": "1.0.0",
+  "description": "Add arbitrary files to a Webpack build",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RossMcMillan92/add-assets-webpack-plugin.git"
+  },
+  "keywords": [
+    "add",
+    "insert",
+    "files",
+    "assets",
+    "webpack",
+    "plugin"
+  ],
+  "author": "Ross McMillan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RossMcMillan92/add-assets-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/RossMcMillan92/add-assets-webpack-plugin#readme"
+}
