@@ -1,6 +1,14 @@
 # add-assets-webpack-plugin
 Add arbitrary assets to a Webpack build
 
+## Install
+
+`npm install --save-dev add-assets-webpack-plugin`
+
+or 
+
+`yarn add -D add-assets-webpack-plugin`
+
 
 ## Usage
 ``` js
